@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # my ignore
-data/
+*.csv
 제공파일/

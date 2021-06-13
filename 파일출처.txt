@@ -1,0 +1,6 @@
+TL_SCCO_CTPRVN.zip.geojson: 
+http://www.gisdeveloper.co.kr/?p=2332에서 다운로드 후
+https://mapshaper.org/와 http://gipong.github.io/shp2geojson.js/에서 변환함
+
+separated_car.csv:
+소스 내에서 가공한 데이터

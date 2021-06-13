@@ -131,3 +131,4 @@ dmypy.json
 # my ignore
 *.csv
 제공파일/
+*.ipynb
